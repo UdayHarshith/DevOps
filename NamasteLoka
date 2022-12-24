@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Ee Sala Cup Namde'
+                echo 'Ee Sala Cup Pakka Namde'
             }
         }
     }
